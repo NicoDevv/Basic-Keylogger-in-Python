@@ -9,7 +9,8 @@
 3) Enter on line 5 the file path where you want the log file to be created (Follow the example)
 4) Open the terminal and run the command: `py logger.py`
 
-## • NOTE: If you are not using windows you will need to use these two commands: `pip3 install pynput` and `python3 logger.py`
+# • NOTE:
+* If you are not using windows you will need to use these two commands: `pip3 install pynput` and `python3 logger.py`
 
 
 <h2>Version</h2>
